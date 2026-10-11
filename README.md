@@ -40,3 +40,5 @@ London and Berlin. A/B testing and CRO consultant: experimentation culture and U
 
 - 📅 Book a call: https://calendar.app.google/LZTWmL4jhseNKNc3A
 - 🌐 Site: https://valentinyeo.com
+- 💼 LinkedIn: https://www.linkedin.com/in/valentin-yeo/
+- 𝕏 X: https://x.com/valentinyeo
