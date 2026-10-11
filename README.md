@@ -2,7 +2,7 @@
 
 I run Hypertask on the same agent automation and A/B testing I sell to other teams.
 
-London and Berlin. Founder of Hypertask, AI agent automation for teams, CRO and A/B testing consultant.
+London and Berlin. Founder of Hypertask. 11 years of A/B testing at trivago. Now I set up AI agent automation for teams and consult on CRO and A/B testing.
 
 ## Start Here
 
