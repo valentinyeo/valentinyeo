@@ -1,34 +1,41 @@
-# Valentin Yeo
+# Hi, I'm Valentin
 
 I run Hypertask on the same agent automation and A/B testing I sell to other teams.
 
-## Hypertask
+London and Berlin. Founder of Hypertask, AI agent automation for teams, CRO and A/B testing consultant.
 
-[Hypertask](https://hypertask.ai) is project and task management built for teams that work with AI agents as much as with people. It is my product, and I build it with a fleet of coding agents.
+## Start Here
 
-## AI agent automation for teams
+- 🧠 **[Hypertask](https://hypertask.ai)** - project and task management for teams that work with AI agents
+- ⚡ **[Hypertask CLI](https://github.com/hypertask-ai/cli)** - native Zig command line tool for agents and humans
+- 🧰 **[agent-toolkit](https://github.com/hypertask-ai/agent-toolkit)** - provision and run skills-driven agents
+- 📱 **[multiprompt-android](https://github.com/valentinyeo/multiprompt-android)** - SSH into your agent tmux sessions from Android
+- 🧪 **[valentinyeo.com](https://valentinyeo.com)** - CRO and A/B testing consulting
+- 🤝 **[AI agent automation for your team](https://calendar.app.google/LZTWmL4jhseNKNc3A)** - book a call, I set up agent workflows that ship
 
-I set up agent workflows for teams: coding agents that pick up tickets, open pull requests, and report back, with checks before anything ships.
+## Current Projects
 
-What that looks like on my own setup:
+### Hypertask
 
-- Agent runners work tickets from the Hypertask board, one ticket per session.
-- An agent pipeline makes a short feature video every day.
-- Changes are checked in a real browser before an agent calls them done.
+- 🧠 **[Hypertask](https://github.com/hypertask-ai/hypertask)** - the open-source project and task app
+- ⚡ **[cli](https://github.com/hypertask-ai/cli)** - fast Zig CLI for agent hot paths
+- 📱 **[android](https://github.com/hypertask-ai/android)** - the Android app
+- 📚 **[docs](https://github.com/hypertask-ai/docs)** - product documentation
 
-## CRO and A/B testing
+### Agent tools
 
-I help product and growth teams run more experiments and learn faster. More at [valentinyeo.com](https://valentinyeo.com).
+- 🧰 **[agent-toolkit](https://github.com/hypertask-ai/agent-toolkit)** - provisioning and operating skills-driven agents
+- 🛠️ **[skills](https://github.com/hypertask-ai/skills)** - agent skills for Hypertask
+- 📟 **[multiprompt-android](https://github.com/valentinyeo/multiprompt-android)** - Android companion for tmux agent sessions
+- ⌨️ **[todo.cli](https://github.com/valentinyeo/todo.cli)** - dependency-free task list CLI built for scripts and agents
+
+### CRO and consulting
+
+- 🧪 **[valentinyeo.com](https://valentinyeo.com)** - CRO and A/B testing
+- ♾️ **[endlesstesting-cli](https://github.com/valentinyeo/endlesstesting-cli)** - CLI and MCP server for autonomous A/B testing
+- 🔎 **[claude-cro](https://github.com/valentinyeo/claude-cro)** - CRO audits and test hypotheses as a Claude Code skill
 
 ## Work with me
 
-- Book a call: https://calendar.app.google/LZTWmL4jhseNKNc3A
-- Site: https://valentinyeo.com
-
-## Open source from Hypertask
-
-- [hypertask](https://github.com/hypertask-ai/hypertask): the open-source project and task app
-- [cli](https://github.com/hypertask-ai/cli): native Zig command line tool for Hypertask
-- [agent-toolkit](https://github.com/hypertask-ai/agent-toolkit): provisioning and operating skills-driven agents
-- [android](https://github.com/hypertask-ai/android): the Android app
-- [endlesstesting-cli](https://github.com/valentinyeo/endlesstesting-cli): CLI and MCP server for autonomous A/B testing
+- 📅 Book a call: https://calendar.app.google/LZTWmL4jhseNKNc3A
+- 🌐 Site: https://valentinyeo.com
