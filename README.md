@@ -2,7 +2,7 @@
 
 I run Hypertask on the same agent automation and A/B testing I sell to other teams.
 
-London and Berlin. Founder of Hypertask. 11 years of A/B testing at trivago. Now I set up AI agent automation for teams and consult on CRO and A/B testing.
+London and Berlin. A/B testing and CRO consultant: experimentation culture and UX. Ex-trivago (11 years), $30M raised. Founder of Hypertask, Endless Testing and ciao.com. Now I also set up AI agent automation for teams.
 
 ## Start Here
 
@@ -10,6 +10,7 @@ London and Berlin. Founder of Hypertask. 11 years of A/B testing at trivago. Now
 - ⚡ **[Hypertask CLI](https://github.com/hypertask-ai/cli)** - native Zig command line tool for agents and humans
 - 🧰 **[agent-toolkit](https://github.com/hypertask-ai/agent-toolkit)** - provision and run skills-driven agents
 - 📱 **[multiprompt-android](https://github.com/valentinyeo/multiprompt-android)** - SSH into your agent tmux sessions from Android
+- 🔁 **[Endless Testing](https://endlesstesting.ai)** - AI that keeps your A/B test slots full, always on
 - 🧪 **[valentinyeo.com](https://valentinyeo.com)** - CRO and A/B testing consulting
 - 🤝 **[AI agent automation for your team](https://calendar.app.google/LZTWmL4jhseNKNc3A)** - book a call, I set up agent workflows that ship
 
