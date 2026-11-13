@@ -12,7 +12,7 @@ London and Berlin. A/B testing and CRO consultant: experimentation culture and U
 - 📱 **[multiprompt-android](https://github.com/valentinyeo/multiprompt-android)** - SSH into your agent tmux sessions from Android *(work in progress)*
 - 🔁 **[Endless Testing](https://endlesstesting.ai)** - AI that keeps your A/B test slots full, always on
 - 🧪 **[valentinyeo.com](https://valentinyeo.com)** - CRO and A/B testing consulting
-- 🤝 **[AI agent automation for your team](https://calendar.app.google/LZTWmL4jhseNKNc3A)** - book a call, I set up agent workflows that ship
+- 🤝 **[AI agent automation for your team](https://cal.com/valentinyeo/teardown)** - book a call, I set up agent workflows that ship
 
 ## Current Projects
 
@@ -22,6 +22,10 @@ London and Berlin. A/B testing and CRO consultant: experimentation culture and U
 - ⚡ **[cli](https://github.com/hypertask-ai/cli)** - fast Zig CLI for agent hot paths
 - 📱 **[android](https://github.com/hypertask-ai/android)** - the Android app *(work in progress)*
 - 📚 **[docs](https://github.com/hypertask-ai/docs)** - product documentation
+
+### Writing
+
+- 📝 **[1,737 pull requests in 30 days](https://valentinyeo.com/writing/hypertask-agent-fleet?utm_source=github)** - how I run Hypertask with an agent fleet, with the real GitHub numbers
 
 ### Agent tools
 
@@ -38,7 +42,7 @@ London and Berlin. A/B testing and CRO consultant: experimentation culture and U
 
 ## Work with me
 
-- 📅 Book a call: https://calendar.app.google/LZTWmL4jhseNKNc3A
+- 📅 Book a call: https://cal.com/valentinyeo/teardown
 - 🌐 Site: https://valentinyeo.com
 - 💼 LinkedIn: https://www.linkedin.com/in/valentin-yeo/
 - 𝕏 X: https://x.com/valentinyeo
